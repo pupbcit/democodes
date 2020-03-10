@@ -1,0 +1,7 @@
+C:\Users\A17909.000\source\repos\PointsLibrary\PointsConsumeWebService\bin\Debug\PointsConsumeWebService.exe.config
+C:\Users\A17909.000\source\repos\PointsLibrary\PointsConsumeWebService\bin\Debug\PointsConsumeWebService.exe
+C:\Users\A17909.000\source\repos\PointsLibrary\PointsConsumeWebService\bin\Debug\PointsConsumeWebService.pdb
+C:\Users\A17909.000\source\repos\PointsLibrary\PointsConsumeWebService\obj\Debug\PointsConsumeWebService.csprojAssemblyReference.cache
+C:\Users\A17909.000\source\repos\PointsLibrary\PointsConsumeWebService\obj\Debug\PointsConsumeWebService.csproj.CoreCompileInputs.cache
+C:\Users\A17909.000\source\repos\PointsLibrary\PointsConsumeWebService\obj\Debug\PointsConsumeWebService.exe
+C:\Users\A17909.000\source\repos\PointsLibrary\PointsConsumeWebService\obj\Debug\PointsConsumeWebService.pdb

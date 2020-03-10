@@ -41,6 +41,14 @@ namespace PointsLibrary.Service
             return this.AllPoints;
         }
 
+        public int GetPointsByStudentNumber(string studentNumber)
+        {
+            //LINQ - lambda
+            return this.AllPoints
+                .FirstOrDefault(x => x.StudentNumber == studentNumber)
+                .NumberOfPoints;
+        }
+
         public void AddPointsToStudent(string studentNumber, int points)
         {
             var found = this.AllPoints

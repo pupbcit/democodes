@@ -13,7 +13,7 @@ namespace Points.Client
         {
             PointsService service = new PointsService();
             var items = service.GetAllPoints();
-
+            
             foreach (var y in items)
             {
                 Console.WriteLine(y.StudentNumber + " " 

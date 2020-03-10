@@ -23,3 +23,4 @@ C:\Users\A17909.000\source\repos\PointsLibrary\PointsLibrary\bin\Debug\System.Te
 C:\Users\A17909.000\source\repos\PointsLibrary\PointsLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\A17909.000\source\repos\PointsLibrary\PointsLibrary\bin\Debug\System.ValueTuple.xml
 C:\Users\A17909.000\source\repos\PointsLibrary\PointsLibrary\obj\Debug\PointsLibrary.csproj.CopyComplete
+C:\Users\A17909.000\source\repos\PointsLibrary\PointsLibrary\obj\Debug\PointsLibrary.csproj.CoreCompileInputs.cache

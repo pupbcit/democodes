@@ -24,3 +24,4 @@ C:\Users\A17909.000\source\repos\PointsLibrary\Points.Client\obj\Debug\Points.Cl
 C:\Users\A17909.000\source\repos\PointsLibrary\Points.Client\obj\Debug\Points.Client.csproj.CopyComplete
 C:\Users\A17909.000\source\repos\PointsLibrary\Points.Client\obj\Debug\Points.Client.exe
 C:\Users\A17909.000\source\repos\PointsLibrary\Points.Client\obj\Debug\Points.Client.pdb
+C:\Users\A17909.000\source\repos\PointsLibrary\Points.Client\obj\Debug\Points.Client.csproj.CoreCompileInputs.cache
